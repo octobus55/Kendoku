@@ -13,7 +13,7 @@ Each bold-outlined group of cells is a cage containing digits which achieve the 
 "240×" on the left side is one of "6,5,4,2" or "3,5,4,4". Either way the five must be in the upper right cell because we have "5,6" already in column 1, and "5,6" in row 4. Also, then the combination must be "3,5,4,4" because there is nowhere to put the 6, with the above criteria.
 In the example here:
 <div align="center">
-    <img src="/Example.jpg" img> 
+    <img src="/Example.jpg" width="400px"</img> 
 </div>
 "11+" in the leftmost column can only be "5,6"
 "2÷" in the top row must be one of "1,2", "2,4" or "3,6"
@@ -22,20 +22,13 @@ In the example here:
 "30x" in the fourth row down must contain "5,6"
 
 
-
-
-
-
-
-
-
 About the project
 
 I am using Monogame for XNA framework. I also create puzzles from JSON files. Project has 3 basic screens which are Main Menu, Game Play and Answer Screens. It has its own puzzle solver in the project. The solver works the same logic as how a normal person solve this puzzle. It uses the same techniques.
 
 When you run the project, the textures doesn’t show at first whıch is a bug i am intended to fix after resizing the window, textures upload and we met with the Main Menu screen.
 <div align="center">
-    <img src="/MainMenu.jpg" </img> 
+    <img src="/MainMenu.jpg"</img> 
 </div>
 Right now I have 3 different games available, I use JSON files to store the raw data of the puzzle. There are 3 variables that I store on JSON files.
 GridCount (For calculating count of columns and rows)
@@ -43,13 +36,13 @@ sectionIndexes(Showing where the “cages” or “sections” are)
 sectionDatas(stores the math operation and also the result)
 When we choose our game we can see the game screen
 <div align="center">
-    <img src="/GamePlayScreen.jpg" </img> 
+    <img src="/GamePlayScreen.jpg"</img> 
 </div>
 
 In the Gameplay Screen there are 7 buttons. 6 of them  are for placing the result to cell and answer button is for seeing the answer of the puzzle. 
 It the result of the puzzle calculated after clicking the answer button.
 <div align="center">
-    <img src="/AnswerScreen.jpg" img> 
+    <img src="/AnswerScreen.jpg""</img> 
 </div>
 
 
