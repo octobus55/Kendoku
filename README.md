@@ -22,7 +22,7 @@ In the example here:
 "30x" in the fourth row down must contain "5,6"
 
 
-About the project
+# About the project
 
 I am using Monogame for XNA framework. I also create puzzles from JSON files. Project has 3 basic screens which are Main Menu, Game Play and Answer Screens. It has its own puzzle solver in the project. The solver works the same logic as how a normal person solve this puzzle. It uses the same techniques.
 
