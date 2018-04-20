@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/asdasdasd.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/test.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/4wayGrid.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/Courier New.spritefont</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/white.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/sprite.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/Calibri.spritefont</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/Value.spritefont</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/buttontest.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/buttons.png</File>
+    <File>C:/Users/ali.sevket/Desktop/EduGame/Kendoku/Kendoku/Content/select.png</File>
+  </SourceFiles>
+</SourceFileCollection>

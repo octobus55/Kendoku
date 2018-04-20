@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/maker/Desktop/Projeler/Kendoku/Kendoku/Content/Calibri.spritefont</SourceFile>
+  <SourceTime>2017-04-13T11:43:29.6081255+03:00</SourceTime>
+  <DestFile>C:/Users/maker/Desktop/Projeler/Kendoku/Kendoku/Content/bin/Windows/Calibri.xnb</DestFile>
+  <DestTime>2018-03-13T15:51:25.4457507+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T18:05:36+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T18:05:36+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
